@@ -9,3 +9,4 @@ python tmdb_top_rated_scraper.py
 ## 说明
 仅用于学习交流。TMDB 数据获取推荐使用官方 API（api.themoviedb.org），
 直接爬取网站可能违反其服务条款。
+仅能爬到英文数据.
