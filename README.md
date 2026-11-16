@@ -9,10 +9,9 @@ python tmdb\_top\_rated\_scraper.py
 
 
 
-\## 数据
+## 数据
 
-\- `data/movie\_list.csv`：TMDB 前100高分电影榜单抓取结果（仅学习用途）
-
+- `data/movie\_list.csv`：TMDB 前100高分电影榜单抓取结果（仅学习用途）
 
 
 ## 说明
